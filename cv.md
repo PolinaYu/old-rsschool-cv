@@ -1,5 +1,6 @@
 Hi, my name is Polina Yukhnevich.
-I'm a student of the Faculty of Applied Mathematics and Computer Science of the Belarusian State University. Now I'm studing at the Rolling Scopes school(android development)
+I'm a student of the Faculty of Applied Mathematics and Computer Science of the Belarusian State University. 
+Now I'm also studing at the Rolling Scopes school(android development). 
 My english level is B1+
 Skills 
 * Basic knowledge of Java, SQL, C++, Assember language, R. Deep understanding of OOP consept.
